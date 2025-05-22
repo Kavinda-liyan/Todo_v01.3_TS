@@ -1,6 +1,6 @@
 
 import './App.css'
-import Wrapper from './Components/Pages/wrapper'
+import Wrapper from './Components/Pages/Wrapper'
 
 function App() {
 
