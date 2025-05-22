@@ -1,4 +1,4 @@
-import type { FC, Key } from "react";
+import type { FC} from "react";
 import ActionBtn from "../ActionBtns/ActionBtn";
 import { faCheck, faPencil, faTrash } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
